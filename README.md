@@ -39,6 +39,8 @@
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyo213&show_icons=true&theme=tokyonight)](https://github.com/hyo213/github-readme-stats)
 
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyo213%2Fhit-counter&count_bg=%233D4BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 </div>
