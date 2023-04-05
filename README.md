@@ -34,7 +34,7 @@
  <br/>
 
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyo213)](https://github.com/깃허브아이디/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyo213&show_icons=true&theme=tokyonight)](https://github.com/hyo213/github-readme-stats)
 
 
 
